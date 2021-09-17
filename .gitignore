@@ -1,0 +1,6 @@
+.DS_Store
+.Vscode/
+authentication.js
+mode_modules
+notes/
+**/*-todo.md
